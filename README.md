@@ -83,7 +83,7 @@ With the data ready, I moved on to creating the dashboard in Power BI. The dashb
 Through this project, I gained a deeper understanding of:
 
 - **API Integration**: Learned how to interact with the YouTube Data API v3 and handle large datasets.
--  **Python Skills**: Enhanced my python knowledge and gained useful information on how to use APIs within it.
+- **Python Skills**: Enhanced my python knowledge and gained useful information on how to use APIs within it.
 - **Data Processing**: Enhanced my skills in data manipulation using Pandas.
 - **Data Visualization**: Improved my ability to create interactive and insightful dashboards using Power BI.
 - **Project Management**: Developed a systematic approach to planning and executing data analysis projects.
@@ -101,7 +101,7 @@ Through this project, I gained a deeper understanding of:
 ├── youtube_channel_data.xlsx # Excel file with the scraped data
 ├── requirements.txt         # Python dependencies
 ├── README.md                # Project documentation
-└── AliensRock Channel Performance Dashboard.pbix  # Power BI dashboard file (if provided)
+└── AliensRock Channel Performance Dashboard.pbix  # Power BI dashboard file
 ```
 
 ## Contributing
