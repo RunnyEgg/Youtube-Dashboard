@@ -13,7 +13,7 @@ This project demonstrates my journey in data analysis, Python programming, and d
   - [Data Processing](#data-processing)
   - [Data Visualization](#data-visualization)
 - [Key Learnings](#key-learnings)
-- [Future Enhancements](#future-enhancements)
+- [What I Would Like To Do In The Future](#what-i-would-like-to-do-in-the-future)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
@@ -88,7 +88,7 @@ Through this project, I gained a deeper understanding of:
 - **Data Visualization**: Improved my ability to create interactive and insightful dashboards using Power BI.
 - **Project Management**: Developed a systematic approach to planning and executing data analysis projects.
 
-## Future Enhancements
+## What I Would Like To Do In The Future
 
 - **Advanced Analytics**: Implement predictive modeling for future view counts.
 - **Interactivity**: Add more interactive elements to the dashboard, such as filters and drill-down capabilities.
