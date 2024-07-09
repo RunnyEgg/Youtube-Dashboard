@@ -16,7 +16,6 @@ This project demonstrates my journey in data analysis, Python programming, and d
 - [What I Would Like To Do In The Future](#what-i-would-like-to-do-in-the-future)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -84,6 +83,7 @@ With the data ready, I moved on to creating the dashboard in Power BI. The dashb
 Through this project, I gained a deeper understanding of:
 
 - **API Integration**: Learned how to interact with the YouTube Data API v3 and handle large datasets.
+-  **Python Skills**: Enhanced my python knowledge and gained useful information on how to use APIs within it.
 - **Data Processing**: Enhanced my skills in data manipulation using Pandas.
 - **Data Visualization**: Improved my ability to create interactive and insightful dashboards using Power BI.
 - **Project Management**: Developed a systematic approach to planning and executing data analysis projects.
@@ -101,13 +101,10 @@ Through this project, I gained a deeper understanding of:
 ├── youtube_channel_data.xlsx # Excel file with the scraped data
 ├── requirements.txt         # Python dependencies
 ├── README.md                # Project documentation
-└── Power BI Dashboard.pbix  # Power BI dashboard file (if provided)
+└── AliensRock Channel Performance Dashboard.pbix  # Power BI dashboard file (if provided)
 ```
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
