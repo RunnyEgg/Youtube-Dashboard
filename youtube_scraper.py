@@ -3,9 +3,9 @@ from googleapiclient.discovery import build
 from tqdm import tqdm
 
 # Replace with your API key
-API_KEY = 'AIzaSyCj7FedH8PYJwl06wu4a6kvywl5rwT3Kx4'
+API_KEY = 'your_api_key'
 # Replace with the channel ID of the YouTube channel you want to scrape
-CHANNEL_ID = 'UCeP4Yv3s4RvS0-6d9OInRMw'
+CHANNEL_ID = 'channel_id'
 
 def get_channel_videos(channel_id, api_key):
     youtube = build('youtube', 'v3', developerKey=api_key)
