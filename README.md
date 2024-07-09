@@ -78,6 +78,9 @@ With the data ready, I moved on to creating the dashboard in Power BI. The dashb
 - **Top 5 Best Performing Videos**: A bar chart showing the top videos based on likes.
 - **Engagement Over Time**: A line chart showing view count by year and by month for the current year.
 
+- ![image](https://github.com/RunnyEgg/Youtube-Dashboard/assets/145708300/638dd477-8e6b-4b43-a0b7-e2dbe80ec0e4)
+
+
 ## Key Learnings
 
 Through this project, I gained a deeper understanding of:
